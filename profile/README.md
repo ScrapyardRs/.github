@@ -1,6 +1,6 @@
 # Scrapyard
 
-![](../assets/logo.png?raw=true) 
+![](https://github.com/ScrapyardRs/.github/blob/master/assets/logo.png?raw=true) 
 
 Welcome to scrapyard.
 
