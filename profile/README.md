@@ -1,4 +1,6 @@
-# ![](../assets/logo.png?raw=true) Scrapyard
+# Scrapyard
+
+![](../assets/logo.png?raw=true) 
 
 Welcome to scrapyard.
 
